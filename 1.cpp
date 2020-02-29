@@ -5,7 +5,7 @@
 int main()
 {
 	int a=1;
-	//which is in master
+	//which is in dev
 	printf("hello world\n");
 	return 0;
 }
